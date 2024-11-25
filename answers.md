@@ -40,4 +40,4 @@ Q11: Why are they so different for the same location in the map?
 - They are different because it is a different cache of tiles when zoomed in and zoomed out?
 
 Q12: Is there a difference in the TileMatrix? %3A is an HTML encoding for a colon, :.What does the number after EPSG:4326 mean?
-- The numbers after ESPG 4326 is the projection I believe. 
+- The numbers after ESPG 4326 is the projection I believe. There are multiple instances of ESPG:4326 but the second instance has the tile col and tile row? Not sure what numbers are being referred to.
